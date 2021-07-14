@@ -5,7 +5,7 @@
 - 📫 you may reach to me through email: azadprajapat4@gmail.com 
 
 
-[![Azad Prajapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadprajapat?theme=gotham)](https://github.com/azadprajapat) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadprajapat)](https://github.com/azadprajapat)
+[![azadprajapat's GitHub stats](https://github-readme-stats.vercel.app/api?username=azadprajapat)](https://github.com/azadprajapat) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azadprajapat)](https://github.com/azadprajapat)
 
 
-{"mode":"full","isActive":false}
+ 
