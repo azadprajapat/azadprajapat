@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Mission-driven Software developer with a passion for innovative tech applications, thoughtful UI design, and Research.  
+💡 &nbsp;Mission-driven Software developer with a passion for innovative tech applications and Research.  
 🎓 &nbsp;I'm currently studying at the Indian Institute of Technology Kanpur.  
-🌱 &nbsp;I'm on track for learning more about Flutter, Artificial Intelligence, Augmented Reality, and BlockChain.  
+🌱 &nbsp;I'm on track for learning more about Cyber Security, Artificial Intelligence, Quantum Computing, and BlockChain.  
 💬 &nbsp;Feel free to reach out to me just for some interesting discussion.  
 ✉️ &nbsp;You can shoot me an email at azadprajapat4@gmail.com! I'll try to respond as soon as I can.  
  
