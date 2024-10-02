@@ -4,7 +4,7 @@
 
 💡 &nbsp;Mission-driven Software developer with a passion for innovative tech applications and Research.  
 🎓 &nbsp;I'm currently working as Software Developer at Walmart Global Tech India.  
-🌱 &nbsp;I'm on track for learning more about Scalable System Design, Cyber Security, Artificial Intelligence.  
+🌱 &nbsp;I'm on track for learning more about Quantum computing, Cyber Security, Artificial Intelligence.  
 💬 &nbsp;Feel free to reach out to me just for some interesting discussion.  
 ✉️ &nbsp;You can shoot me an email at azadprajapat4@gmail.com! I'll try to respond as soon as I can.  
  
