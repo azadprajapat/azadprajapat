@@ -3,12 +3,23 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Mission-driven Software developer with a passion for innovative tech applications and Research.  
-🎓 &nbsp;I'm currently working as Software Developer at Walmart Global Tech India.  
+🎓 &nbsp;I'm currently a Master's Student at University of Amsterdam in Quantum Science.  
 🌱 &nbsp;I'm on track for learning more about Quantum computing, Cyber Security, Artificial Intelligence.  
 💬 &nbsp;Feel free to reach out to me just for some interesting discussion.  
 ✉️ &nbsp;You can shoot me an email at azadprajapat4@gmail.com! I'll try to respond as soon as I can.  
  
 ## Work Experience
+### Walmart International, India
+Software Developer II/III
+(July’23 - Aug'25)
+- Designed and maintained a multi-tenant user identity management application utilizing technologies such as Spring Boot, Kafka, and
+CosmosDB to ensure robust, scalable, and region-specific solutions tailored to global market needs.
+- Proposed a passkey-based authentication system, enhancing account security by leveraging passwordless technology and reducing the risk of
+credential-related breaches
+- Performed the migration and secure handling of PII data for millions of users, ensuring strict adherence to data protection regulations.
+
+
+
 ### ETH Zurich, Switzerland
 Software Developer
 (Feb’22 - July'22)
