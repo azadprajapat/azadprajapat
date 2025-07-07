@@ -10,7 +10,7 @@
  
 ## Work Experience
 ### Walmart International, India
-Software Developer II/III
+Software Developer III/II
 (July’23 - Aug'25)
 - Designed and maintained a multi-tenant user identity management application utilizing technologies such as Spring Boot, Kafka, and
 CosmosDB to ensure robust, scalable, and region-specific solutions tailored to global market needs.
